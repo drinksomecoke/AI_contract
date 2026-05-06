@@ -1,10 +1,6 @@
 # Raw TenderAlpha UGCA parquet data: too large for GitHub.
 /unified-government-contract-awards/
 
-# Generated extraction outputs can become large.
-/00_code/ai_contract_outputs/*.parquet
-/00_code/ai_contract_outputs/*.csv
-
 # Python / notebook cache files.
 __pycache__/
 *.py[cod]
